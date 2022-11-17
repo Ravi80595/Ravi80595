@@ -9,14 +9,14 @@ A passionate full stack web developer from India
 <div display="flex">
 <div>
 <h2> About Me </h2>
-- 🔭 I’m currently preparing for placements!.
-- 🌱 I’m currently learning MERN Stack.
-- 👯 I’m looking to collaborate on ...
-- 🤔 Check Out my <a href="https://drive.google.com/file/d/1VkGzotDBg9Qxjg6y4sVN58YcDNxE0zYV/view?usp=sharing">Resume</a>
-- 📫  Know more about me <a href="https://ravi80595.github.io/">Portfolio</a>
+- 🔭 I’m currently preparing for placements!. <br>
+- 🌱 I’m currently learning MERN Stack.<br>
+- 👯 I’m looking to collaborate on ...<br>
+- 🤔 Check Out my <a href="https://drive.google.com/file/d/1VkGzotDBg9Qxjg6y4sVN58YcDNxE0zYV/view?usp=sharing">Resume</a><br>
+- 📫  Know more about me <a href="https://ravi80595.github.io/">Portfolio</a><br>
 - 😄 All of my projects are available at
-<a href="https://github.com/Ravi80595">My Github Repositories</a>
-- 💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript
+<a href="https://github.com/Ravi80595">My Github Repositories</a><br>
+- 💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
 - ⚡ How to reach me ravi.kaushik.y@gmail.com
 </div>
 <div>
