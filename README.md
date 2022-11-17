@@ -9,7 +9,7 @@ A passionate full stack web developer from India
 <div display="flex">
 <div>
 <h2> About Me </h2>
-- 🔭 I’m currently preparing for placements!. <br>
+- 🔭 I’m currently preparing for placements!. <br><br><br>
 - 🌱 I’m currently learning MERN Stack.<br>
 - 👯 I’m looking to collaborate on ...<br>
 - 🤔 Check Out my <a href="https://drive.google.com/file/d/1VkGzotDBg9Qxjg6y4sVN58YcDNxE0zYV/view?usp=sharing">Resume</a><br>
