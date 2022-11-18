@@ -9,13 +9,11 @@ A passionate full stack web developer from India
 </div>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
-<div display="flex">
 <div>
-<!-- <p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p> -->
 <h2 align="center">💫  About Me </h2>
  🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
- 👯 I’m looking to collaborate on ...<br><br>
+ <!-- 👯 I’m looking to collaborate on ...<br><br> -->
  🤔 Check Out my <a href="https://drive.google.com/file/d/1VkGzotDBg9Qxjg6y4sVN58YcDNxE0zYV/view?usp=sharing">Resume</a><br><br>
  📫  Know more about me <a href="https://ravi80595.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
@@ -23,8 +21,12 @@ A passionate full stack web developer from India
  💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
  ⚡ How to reach me ravi.kaushik.y@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-</div>
 <h2 align="center">📱 Connect With Me </h2>
+<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/ravi-sharma-399572219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ravi Sharma" height="30" width="40" /></a>
+</p>
+<br />
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
