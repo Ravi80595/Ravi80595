@@ -1,12 +1,13 @@
 <div>
-    
-<div id="Heading_Name" align="center">
+<h2 align="center">
 Hi 👋, I am Ravi Sharma. 
+</h2>
 <hr>
+<h2>
 A passionate full stack web developer from India
+</h2>
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Ravi+Sharma.;I+am+a+Full-stack+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
-</div>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
@@ -27,6 +28,7 @@ A passionate full stack web developer from India
 <a href="https://www.linkedin.com/in/ravi-sharma-399572219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ravi Sharma" height="30" width="40" /></a>
 </p>
 <br />
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
