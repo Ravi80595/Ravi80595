@@ -12,7 +12,7 @@ A passionate full stack web developer from India
 <div display="flex">
 <div>
 <!-- <p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p> -->
-<h2>💫  About Me </h2>
+<h2 align="center">💫  About Me </h2>
  🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  👯 I’m looking to collaborate on ...<br><br>
@@ -24,7 +24,7 @@ A passionate full stack web developer from India
  ⚡ How to reach me ravi.kaushik.y@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 </div>
-<h2>📱 Connect With Me </h2>
+<h2 align="center">📱 Connect With Me </h2>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -70,5 +70,8 @@ A passionate full stack web developer from India
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=masum-raja&label=Profile%20views&color=0e75b6&style=flat" alt="masum" /> </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Stats </h2>
+<img  src="https://streak-stats.demolab.com?user=Ravi80595"
+       alt="stats" /></a>
+<!-- (https://git.io/streak-stats) -->
 </div>
 
