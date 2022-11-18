@@ -70,10 +70,12 @@ A passionate full stack web developer from India
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=masum-raja&label=Profile%20views&color=0e75b6&style=flat" alt="masum" /> </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Stats </h2>
-<img  src="https://streak-stats.demolab.com?user=Ravi80595&theme=github-dark"
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Ravi80595&theme=github-dark"
        alt="stats" /></a>
-<!-- (https://git.io/streak-stats?user=Ravi80595) 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ravi80595&theme=github-dark)](https://git.io/streak-stats)
--->
+</div>
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+ ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
