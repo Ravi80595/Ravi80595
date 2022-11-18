@@ -1,7 +1,7 @@
 <div>
     
 <div id="Heading_Name" align="center">
-Hi 👋, I am Ravi Sharma.  
+Hi 👋, I am Ravi Sharma. 
 <hr>
 A passionate full stack web developer from India
 <div>
@@ -12,7 +12,7 @@ A passionate full stack web developer from India
 <div display="flex">
 <div>
 <!-- <p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p> -->
-<h2> About Me </h2>
+<h2>💫  About Me </h2>
  🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  👯 I’m looking to collaborate on ...<br><br>
@@ -24,19 +24,14 @@ A passionate full stack web developer from India
  ⚡ How to reach me ravi.kaushik.y@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 </div>
-<!-- <div>
-<img src='https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif' />  </div>
-</div> -->
-<!-- <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  -->
-<h2>Connect With Me </h2>
+<h2>📱 Connect With Me </h2>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-<h2 align="center">Languages and Tools: </h2>
+<h2 align="center">🚀 Languages and Tools: </h2>
 <br/>
-
  <div align="center"><h3 align="center">Frontend</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
@@ -49,7 +44,6 @@ A passionate full stack web developer from India
 <br/>
   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-  
 </div>
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
@@ -73,6 +67,8 @@ A passionate full stack web developer from India
 
 <br/>
 <br/>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=masum-raja&label=Profile%20views&color=0e75b6&style=flat" alt="masum" /> </p>
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+<h2 align="center">📊 My GitHub Stats </h2>
 </div>
 
