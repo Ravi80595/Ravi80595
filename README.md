@@ -11,6 +11,7 @@ A passionate full stack web developer from India
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div display="flex">
 <div>
+<p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <h2> About Me </h2>
  🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
