@@ -11,7 +11,7 @@ A passionate full stack web developer from India
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div display="flex">
 <div>
-<p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<!-- <p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p> -->
 <h2> About Me </h2>
  🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
@@ -24,10 +24,10 @@ A passionate full stack web developer from India
  ⚡ How to reach me ravi.kaushik.y@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 </div>
-<div>
+<!-- <div>
 <img src='https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif' />  </div>
-</div>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+</div> -->
+<!-- <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  -->
 <h2>Connect With Me </h2>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
