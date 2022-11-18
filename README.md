@@ -76,6 +76,7 @@ A passionate full stack web developer from India
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical' /> 
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 </div>
 
