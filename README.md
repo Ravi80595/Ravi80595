@@ -20,7 +20,7 @@ A passionate full stack web developer from India
  😄 All of my projects are available at
 <a href="https://github.com/Ravi80595">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
- ⚡ How to reach me ravi.kaushik.y@gmail.com
+ ⚡ How to reach me **ravi.kaushik.y@gmail.com**
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📱 Connect With Me </h2>
 <br />
@@ -77,6 +77,7 @@ A passionate full stack web developer from India
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Ravi80595&theme=github-dark"
        alt="stats" /></a>
+<img src="https://streak-stats.demolab.com?user=Ravi80595&theme=github-dark" alt="kkshakya" />
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  <h2> ✍️ Random Dev Quote </h2>
