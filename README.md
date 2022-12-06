@@ -79,6 +79,7 @@ A passionate full stack web developer from India
 <img src="https://streak-stats.demolab.com?user=Ravi80595&theme=github-dark" alt="Ravi" />
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ravi80595&margin-w=15" alt="kkshakya" /> </p>
  <h2> ✍️ Random Dev Quote </h2>
  <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/> 
 </div>
