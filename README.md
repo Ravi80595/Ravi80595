@@ -25,6 +25,7 @@ A passionate full stack web developer from India
 <h2 align="center">📱 Connect With Me </h2>
 <br />
 <p align="center">
+ <a href="https://ravi80595.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ravi Sharma" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ravi-sharma-399572219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ravi Sharma" height="30" width="40" /></a>
 <a href="https://leetcode.com/RaviSharma80595/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglaw" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ravi.haryanvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codinglaw" height="30" width="40" /></a>
