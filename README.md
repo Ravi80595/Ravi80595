@@ -25,7 +25,7 @@ A passionate full stack web developer from India
 <h2 align="center">📱 Connect With Me </h2>
 <br />
 <p align="center">
- <a href="https://ravi80595.github.io/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ravi Sharma" height="30" width="40" /></a>
+ <a href="https://ravi80595.github.io/" target="_blank"><img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/globe-web-6338348-5220256.png" alt="Ravi Sharma" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ravi-sharma-399572219/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ravi Sharma" height="30" width="40" /></a>
 <a href="https://leetcode.com/RaviSharma80595/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglaw" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ravi.haryanvi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codinglaw" height="30" width="40" /></a>
