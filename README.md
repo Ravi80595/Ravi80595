@@ -15,8 +15,7 @@ A passionate full stack web developer from India
  🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1VkGzotDBg9Qxjg6y4sVN58YcDNxE0zYV/view?usp=sharing">Resume</a><br><br>
- 📫  Know more about me <a href="https://ravi80595.github.io/">Portfolio</a><br><br>
+<!--  📫  Know more about me <a href="https://ravi80595.github.io/">Portfolio</a><br><br> -->
  😄 All of my projects are available at
 <a href="https://github.com/Ravi80595">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
