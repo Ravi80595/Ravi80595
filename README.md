@@ -4,7 +4,7 @@ Hi 👋, I am Ravi Sharma.
 </h2>
 <hr>
 <h2 align="center">
-A passionate full stack web developer from India
+Expereinced full stack web developer from India
 </h2>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Ravi+Sharma.;I+am+a+Full-stack+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
@@ -12,7 +12,7 @@ A passionate full stack web developer from India
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
 <h2 align="center">💫  About Me </h2>
- 🔭 I’m currently preparing for placements!. <br><br>
+ 🔭 I’m currently working in upscaller as a lead developer <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
 <!--  📫  Know more about me <a href="https://ravi80595.github.io/">Portfolio</a><br><br> -->
